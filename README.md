@@ -1,4 +1,5 @@
 # Registration_Form
 
-Visit Here: saiyamjn.xo.je
-
+Assignment for WT LAB
+Registration from using HTML, CSS, JS and PHP
+Deployed on render using docker
